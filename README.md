@@ -1,4 +1,4 @@
 # KotlinInAction
 ## 代码清单
 ### Chapter 1
-#### 1.1 [Kotlin初体验]()
+#### 1.1 [Kotlin初体验](https://github.com/ldk123456/KotlinInAction/blob/master/src/Chapter01/1.1_ATasteOfKotlin.kt)
