@@ -1,4 +1,4 @@
-package geometry.shapes
+package geometry.shapes             //包声明
 
 import java.util.Random             //导入标准Java库的类
 

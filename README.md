@@ -1,4 +1,29 @@
 # KotlinInAction
 ## 代码清单
-###  1. *Kotlin: 定义和目的*
+### 1. *Kotlin: 定义和目的*
 #### 1.1 [Kotlin初体验](https://github.com/ldk123456/KotlinInAction/blob/master/src/Chapter01/1.1_ATasteOfKotlin.kt)
+### 2. *Kotlin 基础*
+#### 2.1 [Kotlin的"Hello World!"](https://github.com/ldk123456/KotlinInAction/blob/master/src/Chapter02/2.1.1_HelloWord.kt)
+#### 2.2 [kotlin的函数](https://github.com/ldk123456/KotlinInAction/blob/master/src/Chapter02/2.1.2_Functions.kt)
+#### 2.3 [字符串模板](https://github.com/ldk123456/KotlinInAction/blob/master/src/Chapter02/2.1.4_StringTemplates.kt)
+#### 2.4 [类和属性](https://github.com/ldk123456/KotlinInAction/blob/master/src/Chapter02/2.2.1_Properties.kt)
+#### 2.5 [自定义访问器](https://github.com/ldk123456/KotlinInAction/blob/master/src/Chapter02/2.2.2_CustomAccessors.kt)
+#### 2.6 [把类和函数的声明放在包中](https://github.com/ldk123456/KotlinInAction/blob/master/src/Chapter02/2.2.3_1_Rectangle.kt)
+#### 2.7 [导入其他包中的函数](https://github.com/ldk123456/KotlinInAction/blob/master/src/Chapter02/2.2.3_2_RectangleExample.kt)
+#### 2.8 [简单的枚举类](https://github.com/ldk123456/KotlinInAction/blob/master/src/Chapter02/2.3.1_Colors.kt)
+#### 2.9 [带属性的枚举类](https://github.com/ldk123456/KotlinInAction/blob/master/src/Chapter02/2.3.1_DeclaringEnumClasses.kt)
+#### 2.10 [使用when选择枚举值](https://github.com/ldk123456/KotlinInAction/blob/master/src/Chapter02/2.3.2_1_WhenEnums.kt)
+#### 2.11 [在一个when分支上合并多个选项](https://github.com/ldk123456/KotlinInAction/blob/master/src/Chapter02/2.3.2_2_GetWarmth.kt)
+#### 2.12 [导入枚举常量后不用限定词既可以访问](https://github.com/ldk123456/KotlinInAction/blob/master/src/Chapter02/2.3.2_3_WhenEnums2.kt)
+#### 2.13 [在when分支中使用不同的对象](https://github.com/ldk123456/KotlinInAction/blob/master/src/Chapter02/2.3.3_UsingWhenWithArbitraryObjects.kt)
+#### 2.14 [不带参数的when](https://github.com/ldk123456/KotlinInAction/blob/master/src/Chapter02/2.3.4_WhenWithoutArument.kt)
+#### 2.15 [智能转换：合并类型检查和转换](https://github.com/ldk123456/KotlinInAction/blob/master/src/Chapter02/2.3.5_SmartCasts.kt)
+#### 2.16 [有返回值的if表达式](https://github.com/ldk123456/KotlinInAction/blob/master/src/Chapter02/2.3.6_1_EvalIf.kt)
+#### 2.17 [使用when代替if层叠](https://github.com/ldk123456/KotlinInAction/blob/master/src/Chapter02/2.3.6_2_EvalWhen.kt)
+#### 2.18 [代码块作为if和when的分支](https://github.com/ldk123456/KotlinInAction/blob/master/src/Chapter02/2.3.7_WhenBlockBranch.kt)
+#### 2.19 [迭代数字：区间和数列](https://github.com/ldk123456/KotlinInAction/blob/master/src/Chapter02/2.4.2_FizzBuzz.kt)
+#### 2.20 [迭代map](https://github.com/ldk123456/KotlinInAction/blob/master/src/Chapter02/2.4.3_Map.kt)
+#### 2.21 [使用in检查集合和区间的成员](https://github.com/ldk123456/KotlinInAction/blob/master/src/Chapter02/2.4.4_InCheck.kt)
+#### 2.22 [像在Java中一样使用try](https://github.com/ldk123456/KotlinInAction/blob/master/src/Chapter02/2.5.1_TryCatchAndFinally.kt)
+#### 2.23 [tru\y作为表达式](https://github.com/ldk123456/KotlinInAction/blob/master/src/Chapter02/2.5.2_TryAsAnExpression.kt)
+#### 2.24 [在Java中使用Kotlin中的类](https://github.com/ldk123456/KotlinInAction/blob/master/src/Chapter02/PersonUsage.java)
