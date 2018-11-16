@@ -2,25 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f1b87bdd-9267-4f82-80e6-94d4871d3de4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Chapter03/3.1_CreatingCollectionsInKotlin.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter03/3.2_JoinToSTringFinal.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter03/3.2_JoinToString.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter03/3.3.3_ExtensionFunctionJoinToString.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter03/3.3.4_NoOverridingForExtensionFunctions.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter03/3.3.5_ExtensionProperties.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter03/3.3_Extensions.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter03/3.4.1_ExtensionAPIOfJava.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter03/3.4.2_Varargs.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter03/3.4.3_InfixCallAndDeconstruction.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter03/3.5.1_SplittingStrings.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter03/3.5.2_ParsePath.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter03/3.5.3_MultilineTriplequotedStrings.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter03/3.6_1_ValidateUser.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter03/3.6_2_LocalFunctionsAndExtensions1.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter03/3.6_3_LocalFunctionsAndExtensions2.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter03/3.6_4_LocalFunctionsAndExtensions3.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinInAction/META-INF/KotlinInAction.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinInAction/META-INF/KotlinInAction.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,7 +15,7 @@
     <session id="-256865856">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="13" />
+          <entry key="project.closed" value="14" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.11" value="3" />
           <entry key="project.open.time.17" value="1" />
@@ -48,75 +30,42 @@
         <counts>
           <entry key="java" value="3" />
           <entry key="kt" value="126" />
-          <entry key="md" value="4" />
+          <entry key="md" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="JAVA" value="3" />
           <entry key="Kotlin" value="126" />
-          <entry key="Markdown" value="4" />
+          <entry key="Markdown" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="java" value="146" />
-          <entry key="kt" value="10394" />
-          <entry key="md" value="657" />
+          <entry key="kt" value="10397" />
+          <entry key="md" value="1131" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JAVA" value="146" />
-          <entry key="Kotlin" value="10394" />
-          <entry key="Markdown" value="657" />
+          <entry key="Kotlin" value="10397" />
+          <entry key="Markdown" value="1131" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Chapter03/3.6_1_ValidateUser.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="684">
-              <caret line="19" selection-start-line="19" selection-end-line="22" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Chapter03/3.6_2_LocalFunctionsAndExtensions1.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="576">
-              <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Chapter03/3.6_3_LocalFunctionsAndExtensions2.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="7" column="79" selection-start-line="7" selection-start-column="79" selection-end-line="7" selection-end-column="79" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Chapter03/3.6_4_LocalFunctionsAndExtensions3.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="511">
-              <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://E:/文档/kotlin实战/src/ch03/3.6_4_LocalFunctionsAndExtensions3.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="583">
-              <caret line="23" column="29" lean-forward="true" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="29" />
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="1324">
+                <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -163,7 +112,6 @@
         <option value="$PROJECT_DIR$/src/Chapter02/2.5.1_TryCatchAndFinally.kt" />
         <option value="$PROJECT_DIR$/src/Chapter02/2.5.2_TryAsAnExpression.kt" />
         <option value="$PROJECT_DIR$/src/Chapter02/2.2.3_1_Rectangle.kt" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/Chapter02/2.1.2_Functions.kt" />
         <option value="$PROJECT_DIR$/src/Chapter03/3.1_CreatingCollectionsInKotlin.kt" />
         <option value="$PROJECT_DIR$/src/Chapter03/3.2_JoinToString.kt" />
@@ -183,6 +131,7 @@
         <option value="$PROJECT_DIR$/src/Chapter03/3.6_2_LocalFunctionsAndExtensions1.kt" />
         <option value="$PROJECT_DIR$/src/Chapter03/3.6_3_LocalFunctionsAndExtensions2.kt" />
         <option value="$PROJECT_DIR$/src/Chapter03/3.6_4_LocalFunctionsAndExtensions3.kt" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -208,17 +157,6 @@
               <item name="KotlinInAction" type="b2602c69:ProjectViewProjectNode" />
               <item name="KotlinInAction" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="KotlinInAction" type="b2602c69:ProjectViewProjectNode" />
-              <item name="KotlinInAction" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="KotlinInAction" type="b2602c69:ProjectViewProjectNode" />
-              <item name="KotlinInAction" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter03" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -226,7 +164,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542357524100" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542358835112" />
     <property name="last_opened_file_path" value="E:/文档/kotlin实战/src/ch03/3.5.1_1_SplittingStrings.kt" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
@@ -340,7 +278,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.18070363" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -374,16 +311,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Chapter02/2.3.2_3_WhenEnums2.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="11" column="9" lean-forward="true" selection-start-line="3" selection-end-line="11" selection-end-column="9" />
-          <folding>
-            <element signature="e#19#146#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Chapter02/2.3.3_UsingWhenWithArbitraryObjects.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
@@ -669,7 +596,17 @@
     <entry file="file://$PROJECT_DIR$/src/Chapter03/3.6_4_LocalFunctionsAndExtensions3.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="511">
-          <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="1324">
+            <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
