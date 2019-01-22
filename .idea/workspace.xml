@@ -2,8 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f1b87bdd-9267-4f82-80e6-94d4871d3de4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter04/4.4.3_ExtensionFunctionForCompanionObject.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter04/4.4.3_ExtensionFunctionForCompanionObject.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter05/5.1.2_LambdasAndCollections.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter05/5.1.3_JoinToString.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter05/5.1.3_SumOfLambdaExpressions.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter05/5.1.3_SyntaxForLambdaExpressions.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter05/5.1.4_ChangingLocalVariablesInLambda.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter05/5.1.4_UsingFunctionArgumentsInLambda.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter05/5.1.5_ConstructorReference.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter05/5.1.5_ReferencingTopLevelFunction.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter05/5.2.1_FilterMap.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter05/5.2.1_NumberFilter.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter05/5.2.1_NumberMap.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter05/5.2.1_PersonFilter.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter05/5.2.1_PersonMap.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter05/5.2.2_AllAndAny.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter05/5.2.2_Count.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter05/5.2.2_Find.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter05/5.2.2_NotAllAndAny.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter05/5.2.3_GroupBy.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter05/5.2.4_FlatMapFlatten.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter05/5.3.1_ExecutingSequenceOperations.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter05/5.3.2_CreatingFatherFileSequences.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter05/5.3.2_CreatingNumberSequences.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter05/5.4_SAMConstructors.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter05/5.5.1_Alphabet.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter05/5.5.1_TheWithFunction.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter05/5.5.2_BuildString.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter05/5.5.2_TheApplyFunction.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinInAction/META-INF/KotlinInAction.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinInAction/META-INF/KotlinInAction.kotlin_module" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,16 +41,54 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="749">
-                <caret line="68" column="17" selection-start-line="68" selection-start-column="17" selection-end-line="68" selection-end-column="17" />
-              </first_editor>
-              <second_editor />
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Chapter05/5.5.1_Alphabet.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="14" selection-end-column="33" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Chapter05/5.5.1_TheWithFunction.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="764">
+              <caret line="25" column="33" lean-forward="true" selection-start-line="24" selection-start-column="4" selection-end-line="25" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Chapter05/5.5.2_TheApplyFunction.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="6" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Chapter05/5.5.2_BuildString.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="9" column="31" lean-forward="true" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://E:/文档/kotlin实战/src/ch05/5.5.2_1_TheApplyFunction.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="37" lean-forward="true" selection-start-column="21" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://E:/文档/kotlin实战/src/ch05/5.5.2_2_TheApplyFunction1.kt">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -43,38 +108,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Chapter02/2.4.4_InCheck.kt" />
-        <option value="$PROJECT_DIR$/src/Chapter02/2.5.1_TryCatchAndFinally.kt" />
-        <option value="$PROJECT_DIR$/src/Chapter02/2.5.2_TryAsAnExpression.kt" />
-        <option value="$PROJECT_DIR$/src/Chapter02/2.2.3_1_Rectangle.kt" />
-        <option value="$PROJECT_DIR$/src/Chapter02/2.1.2_Functions.kt" />
-        <option value="$PROJECT_DIR$/src/Chapter03/3.1_CreatingCollectionsInKotlin.kt" />
-        <option value="$PROJECT_DIR$/src/Chapter03/3.2_JoinToString.kt" />
-        <option value="$PROJECT_DIR$/src/Chapter03/3.2_UtilityFunctionsAsExtensions.kt" />
-        <option value="$PROJECT_DIR$/src/Chapter03/3.3_ExtensionFunction.kt" />
-        <option value="$PROJECT_DIR$/src/Chapter03/3.3.4_NoOverridingForExtensionFunctions.kt" />
-        <option value="$PROJECT_DIR$/src/Chapter03/3.3.5_ExtensionProperties.kt" />
-        <option value="$PROJECT_DIR$/src/Chapter03/3.4.1_ExtensionAPIOfJava.kt" />
-        <option value="$PROJECT_DIR$/src/Chapter03/3.4.2_Varargs.kt" />
-        <option value="$PROJECT_DIR$/src/Chapter03/3.5.1_SplittingStrings.kt" />
-        <option value="$PROJECT_DIR$/src/Chapter03/3.5.2_ParsePath.kt" />
-        <option value="$PROJECT_DIR$/src/Chapter03/3.5.3_MultilineTriplequotedStrings.kt" />
-        <option value="$PROJECT_DIR$/src/Chapter03/3.6_2_LocalFunctionsAndExtensions2.kt" />
-        <option value="$PROJECT_DIR$/src/Chapter03/3.6_1_ValidateUser.kt" />
-        <option value="$PROJECT_DIR$/src/Chapter03/3.6_2_LocalFunctionsAndExtensions1.kt" />
-        <option value="$PROJECT_DIR$/src/Chapter03/3.6_3_LocalFunctionsAndExtensions2.kt" />
-        <option value="$PROJECT_DIR$/src/Chapter03/3.6_4_LocalFunctionsAndExtensions3.kt" />
-        <option value="$PROJECT_DIR$/src/Chapter03/3.3.3_ExtensionFunctionJoinToString.kt" />
-        <option value="$PROJECT_DIR$/src/Chapter03/3.4.3_InfixCallAndDeconstruction.kt" />
-        <option value="$PROJECT_DIR$/src/Chapter04/InterfaceInKotlin.kt" />
-        <option value="$PROJECT_DIR$/src/Chapter04/4.1.1_2_Main.kt" />
-        <option value="$PROJECT_DIR$/src/Chapter04/4.1.2_1_OpenFinalAbstractModifiers.kt" />
-        <option value="$PROJECT_DIR$/src/Chapter04/4/1/4.1.2_2_AbstractClass.kt" />
-        <option value="$PROJECT_DIR$/src/Chapter04/4.1.3_PublicModifiers.kt" />
-        <option value="$PROJECT_DIR$/src/Chapter04/4.1.2_2_AbstractClass.kt" />
-        <option value="$PROJECT_DIR$/src/Chapter04/4.1.4_Button.kt" />
-        <option value="$PROJECT_DIR$/src/Chapter04/4.1.4_InnerAndNestedClass.kt" />
-        <option value="$PROJECT_DIR$/src/Chapter04/4.1.5_1_SealedClasses1.kt" />
         <option value="$PROJECT_DIR$/src/Chapter04/4.1.5_2_SealedClasses2.kt" />
         <option value="$PROJECT_DIR$/src/Chapter04/4.2.1_InitializingClass.kt" />
         <option value="$PROJECT_DIR$/src/Chapter04/4.2.2_Constructor.kt" />
@@ -94,10 +127,42 @@
         <option value="$PROJECT_DIR$/src/Chapter04/4.4.2_CompanionObjects1.kt" />
         <option value="$PROJECT_DIR$/src/Chapter04/4.4.3_ExtensionFunctionForCompanionObject.kt" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/Chapter04/4.1.1_1_InterfaceInKotlin.kt" />
+        <option value="$PROJECT_DIR$/src/Chapter04/4.1.1_2_Main.kt" />
+        <option value="$PROJECT_DIR$/src/Chapter05/5.1.1_Listener.kt" />
+        <option value="$PROJECT_DIR$/src/Chapter05/5.1.2_LambdasAndCollections.kt" />
+        <option value="$PROJECT_DIR$/src/Chapter05/5.1.3_SyntaxForLambdaExpressions.kt" />
+        <option value="$PROJECT_DIR$/src/Chapter05/45.1.3_JoinToString.kt" />
+        <option value="$PROJECT_DIR$/src/Chapter05/5.1.3_JoinToString.kt" />
+        <option value="$PROJECT_DIR$/src/Chapter05/5.1.3_SumOfLambdaExpressions.kt" />
+        <option value="$PROJECT_DIR$/src/Chapter05/5.1.4_UsingFunctionArgumentsInLambda.kt" />
+        <option value="$PROJECT_DIR$/src/Chapter05/5.1.4_ChangingLocalVariablesInLambda.kt" />
+        <option value="$PROJECT_DIR$/src/Chapter05/5.1.5_ReferencingTop-levelFunction.kt" />
+        <option value="$PROJECT_DIR$/src/Chapter05/5.1.5_ReferencingTopLevelFunction.kt" />
+        <option value="$PROJECT_DIR$/src/Chapter05/5.1.5_ConstructorReference.kt" />
+        <option value="$PROJECT_DIR$/src/Chapter05/5.2.1_PersonFilter.kt" />
+        <option value="$PROJECT_DIR$/src/Chapter05/5.2.1_NumberMap.kt" />
+        <option value="$PROJECT_DIR$/src/Chapter05/5.2.1_NumberFilter.kt" />
+        <option value="$PROJECT_DIR$/src/Chapter05/5.2.1_PersonMap.kt" />
+        <option value="$PROJECT_DIR$/src/Chapter05/5.2.1_FilterMap.kt" />
+        <option value="$PROJECT_DIR$/src/Chapter05/5.2.2_AllAndAny.kt" />
+        <option value="$PROJECT_DIR$/src/Chapter05/5.2.2_NotAllAndAny.kt" />
+        <option value="$PROJECT_DIR$/src/Chapter05/5.2.2_Count.kt" />
+        <option value="$PROJECT_DIR$/src/Chapter05/5.2.2_Find.kt" />
+        <option value="$PROJECT_DIR$/src/Chapter05/5.2.3_GroupBy.kt" />
+        <option value="$PROJECT_DIR$/src/Chapter05/5.2.4_FlatMapFlatten.kt" />
+        <option value="$PROJECT_DIR$/src/Chapter05/5.3.1_ExecutingSequenceOperations.kt" />
+        <option value="$PROJECT_DIR$/src/Chapter05/5.3.2_CreatingNumberSequences.kt" />
+        <option value="$PROJECT_DIR$/src/Chapter05/5.3.2_CreatingFatherFileSequences.kt" />
+        <option value="$PROJECT_DIR$/src/Chapter05/5.4_SAMConstructors.kt" />
+        <option value="$PROJECT_DIR$/src/Chapter05/5.5.1_Alphabet.kt" />
+        <option value="$PROJECT_DIR$/src/Chapter05/5.5.1_TheWithFunction.kt" />
+        <option value="$PROJECT_DIR$/src/Chapter05/5.5.2_TheApplyFunction.kt" />
+        <option value="$PROJECT_DIR$/src/Chapter05/5.5.2_BuildString.kt" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="781" />
     <option name="y" value="222" />
     <option name="width" value="974" />
@@ -111,6 +176,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -127,19 +193,18 @@
               <item name="KotlinInAction" type="b2602c69:ProjectViewProjectNode" />
               <item name="KotlinInAction" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter04" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter05" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543397306079" />
-    <property name="last_opened_file_path" value="E:/文档/kotlin实战/src/ch04/4.2.3_1_ImplementingPropertiesDeclaredInInterfaces.kt" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548147518000" />
+    <property name="last_opened_file_path" value="E:/文档/kotlin实战/src/ch05/5.2.3_1_GroupBy.kt" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
@@ -154,67 +219,67 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.Chapter04.DeclareingNamedCompanionObject._4_4_3_DeclareingNamedCompanionObjectKt">
-    <configuration name="Chapter04.CompanionObjects1._4_4_2_CompanionObjects1Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Kotlin.Chapter05.BuildString._5_5_2_BuildStringKt">
+    <configuration name="Chapter05.Alphabet._5_5_1_AlphabetKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KotlinInAction" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Chapter04.CompanionObjects1._4_4_2_CompanionObjects1Kt" />
+      <option name="MAIN_CLASS_NAME" value="Chapter05.Alphabet._5_5_1_AlphabetKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Chapter04.CompanionObjects._4_4_2_CompanionObjectsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="Chapter05.BuildString._5_5_2_BuildStringKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KotlinInAction" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Chapter04.CompanionObjects._4_4_2_CompanionObjectsKt" />
+      <option name="MAIN_CLASS_NAME" value="Chapter05.BuildString._5_5_2_BuildStringKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Chapter04.DeclareingNamedCompanionObject._4_4_3_DeclareingNamedCompanionObjectKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="Chapter05.SAMConstructors._5_4_SAMConstructorsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KotlinInAction" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Chapter04.DeclareingNamedCompanionObject._4_4_3_DeclareingNamedCompanionObjectKt" />
+      <option name="MAIN_CLASS_NAME" value="Chapter05.SAMConstructors._5_4_SAMConstructorsKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Chapter04.ObjectDeclarations1._4_4_1_ObjectDeclarations1Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="Chapter05.TheApplyFunction._5_5_2_TheApplyFunctionKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KotlinInAction" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Chapter04.ObjectDeclarations1._4_4_1_ObjectDeclarations1Kt" />
+      <option name="MAIN_CLASS_NAME" value="Chapter05.TheApplyFunction._5_5_2_TheApplyFunctionKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Chapter04.ObjectDeclarations._4_4_1_ObjectDeclarationsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="Chapter05.TheWithFunction._5_5_1_TheWithFunctionKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KotlinInAction" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Chapter04.ObjectDeclarations._4_4_1_ObjectDeclarationsKt" />
+      <option name="MAIN_CLASS_NAME" value="Chapter05.TheWithFunction._5_5_1_TheWithFunctionKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -222,11 +287,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.Chapter04.DeclareingNamedCompanionObject._4_4_3_DeclareingNamedCompanionObjectKt" />
-        <item itemvalue="Kotlin.Chapter04.CompanionObjects1._4_4_2_CompanionObjects1Kt" />
-        <item itemvalue="Kotlin.Chapter04.CompanionObjects._4_4_2_CompanionObjectsKt" />
-        <item itemvalue="Kotlin.Chapter04.ObjectDeclarations1._4_4_1_ObjectDeclarations1Kt" />
-        <item itemvalue="Kotlin.Chapter04.ObjectDeclarations._4_4_1_ObjectDeclarationsKt" />
+        <item itemvalue="Kotlin.Chapter05.BuildString._5_5_2_BuildStringKt" />
+        <item itemvalue="Kotlin.Chapter05.TheApplyFunction._5_5_2_TheApplyFunctionKt" />
+        <item itemvalue="Kotlin.Chapter05.TheWithFunction._5_5_1_TheWithFunctionKt" />
+        <item itemvalue="Kotlin.Chapter05.Alphabet._5_5_1_AlphabetKt" />
+        <item itemvalue="Kotlin.Chapter05.SAMConstructors._5_4_SAMConstructorsKt" />
       </list>
     </recent_temporary>
   </component>
@@ -242,6 +307,15 @@
       <updated>1542075654037</updated>
     </task>
     <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -260,7 +334,7 @@
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.329718" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50053304" side_tool="true" weight="0.3275488" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
@@ -277,323 +351,288 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Chapter03/3.6_4_LocalFunctionsAndExtensions3.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="331">
-          <caret line="16" selection-start-line="16" selection-end-line="20" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/文档/kotlin实战/src/ch04/4.1.1_1_InterfacesInKotlin.kt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://E:/文档/kotlin实战/src/ch04/4.1.1_2_main.kt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://E:/文档/kotlin实战/src/ch04/4.1.2_2_OpenFinalAbstractModifiers1.kt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter04/4/1/4.1.2_2_AbstractClass.kt" />
-    <entry file="file://E:/文档/kotlin实战/src/ch04/4.1.2_1_OpenFinalAbstractModifiers.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="47" lean-forward="true" selection-start-column="21" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/文档/kotlin实战/src/ch04/4.1.4_1_Button1.kt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://E:/文档/kotlin实战/src/ch04/4.1.4_2_InnerAndNestedClasses1.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="42" selection-start-column="21" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/文档/kotlin实战/src/ch04/4.1.5_1_SealedClasses.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="16" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/文档/kotlin实战/src/ch04/4.1.5_2_SealedClasses1.kt">
+    <entry file="file://$PROJECT_DIR$/src/Chapter05/5.1.4_UsingFunctionArgumentsInLambda.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="468">
-          <caret line="13" selection-start-line="13" selection-end-line="15" selection-end-column="1" />
+          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter04/4.1.3_PublicModifiers.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="17" column="42" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://G:/AndroidStudioProjects/SpadeWeather/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://E:/文档/kotlin实战/src/ch04/4.2.1_InitializingClasses.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter04/4.2.1_InitializingClass.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="12" column="76" selection-start-line="12" selection-start-column="76" selection-end-line="12" selection-end-column="76" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter04/4.2.2_Constructor.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="684">
-          <caret line="20" column="20" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
-          <folding>
-            <element signature="e#31#100#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/文档/kotlin实战/src/ch04/4.2.4_AccessingABackingFieldFromAGetterOrSetter.kt">
+    <entry file="file://E:/文档/kotlin实战/src/ch05/5.1.4_2_AccessingVariablesInScope1.kt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://E:/文档/kotlin实战/src/ch04/4.2.5_ChangingAccessorVisibility.kt">
+    <entry file="file://$PROJECT_DIR$/src/Chapter05/5.1.4_ChangingLocalVariablesInLambda.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="4" column="24" lean-forward="true" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter05/5.1.5_ReferencingTopLevelFunction.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/文档/kotlin实战/src/ch05/5.1.5_1_MemberReferences.kt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter04/4.2.4_AccessingABackingFieldFromAGetterOrSetter.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="512">
-          <caret line="18" column="10" lean-forward="true" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter04/4.2.5_ChangingAccessorVisibility.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="4" column="42" selection-start-line="4" selection-start-column="42" selection-end-line="4" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/文档/kotlin实战/src/ch04/4.2.3_1_ImplementingPropertiesDeclaredInInterfaces.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/文档/kotlin实战/src/ch04/4.2.3_2_ImplementingPropertiesDeclaredInInterfaces1.kt">
+    <entry file="file://E:/文档/kotlin实战/src/ch05/5.1.5_2_MemberReferences1.kt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://E:/文档/kotlin实战/src/ch04/4.3.1.1_StringRepresentationToString.kt">
+    <entry file="file://$PROJECT_DIR$/src/Chapter05/5.1.5_ConstructorReference.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="16" column="48" selection-start-line="16" selection-start-column="48" selection-end-line="16" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/文档/kotlin实战/src/ch05/5.2.1_1_FilterMap.kt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter04/4.3.1_StringRepresentationToString.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="9" column="46" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
-        </state>
-      </provider>
+    <entry file="file://E:/文档/kotlin实战/src/ch05/5.2.1_2_FilterMap1.kt">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://E:/文档/kotlin实战/src/ch04/4.3.1.2_2_ObjectEqualityEquals1.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/文档/kotlin实战/src/ch04/4.3.1.2_1_ObjectEqualityEquals.kt">
+    <entry file="file://$PROJECT_DIR$/src/Chapter05/5.2.1_PersonFilter.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
-          <caret line="7" column="31" lean-forward="true" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+          <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter04/4.3.1_ObjectEqualityEquals.kt">
+    <entry file="file://E:/文档/kotlin实战/src/ch05/5.2.1_3_FilterMap2.kt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter05/5.2.1_NumberFilter.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter05/5.2.1_NumberMap.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
-          <caret line="4" column="45" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="45" />
+          <caret line="4" column="25" lean-forward="true" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter04/4.3.1_HashCode.kt">
+    <entry file="file://E:/文档/kotlin实战/src/ch05/5.2.1_4_FilterMap3.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="6" column="35" lean-forward="true" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter05/5.2.1_PersonMap.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="13" column="46" lean-forward="true" selection-start-line="13" selection-start-column="46" selection-end-line="13" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter05/5.2.1_FilterMap.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/文档/kotlin实战/src/ch05/5.2.1_5_FilterMap4.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/文档/kotlin实战/src/ch05/5.2.2_1_AllAnyCountFind.kt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://E:/文档/kotlin实战/src/ch05/5.2.2_2_AllAnyCountFind1.kt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter05/5.2.2_NotAllAndAny.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="6" column="51" selection-start-line="6" selection-start-column="51" selection-end-line="6" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter05/5.2.2_AllAndAny.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
-          <caret line="2" column="53" lean-forward="true" selection-start-line="2" selection-start-column="53" selection-end-line="2" selection-end-column="53" />
+          <caret line="2" selection-start-line="2" selection-end-line="4" selection-end-column="48" />
         </state>
       </provider>
     </entry>
-    <entry file="file://E:/文档/kotlin实战/src/ch04/4.3.2.1_DataClassCopy.kt">
+    <entry file="file://$PROJECT_DIR$/src/Chapter05/5.2.2_Count.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/文档/kotlin实战/src/ch05/5.2.2_3_AllAnyCountFind2.kt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter04/4.3.2_DataClassCopy.kt">
+    <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/common/generated/_Collections.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+        <state relative-caret-position="290">
+          <caret line="239" column="34" selection-start-line="239" selection-start-column="34" selection-end-line="239" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter04/4.3.3_ClassDelegationUsingTheByKeyword.kt">
+    <entry file="file://$PROJECT_DIR$/src/Chapter05/5.2.2_Find.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="3" column="54" lean-forward="true" selection-start-line="3" selection-start-column="54" selection-end-line="3" selection-end-column="54" />
+        <state relative-caret-position="288">
+          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://E:/文档/kotlin实战/src/ch04/4.3.3_ClassDelegationUsingTheByKeyword.kt">
+    <entry file="file://E:/文档/kotlin实战/src/ch05/5.2.3_2_GroupBy1.kt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://E:/文档/kotlin实战/src/ch04/4.4.1_2_ObjectDeclarations1.kt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://E:/文档/kotlin实战/src/ch04/4.4.1_1_ObjectDeclarations.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="39" lean-forward="true" selection-start-column="21" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter04/4.4.1_ObjectDeclarations.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="36" lean-forward="true" selection-start-column="18" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter04/4.4.1_ObjectDeclarations1.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter04/4.4.2_CompanionObjects.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="12" column="32" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter04/4.2.3_ImplementingPropertiesDeclaredInterface.kt">
+    <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/common/generated/_Strings.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="298">
-          <caret line="19" selection-start-line="19" selection-end-line="19" selection-end-column="53" />
+          <caret line="70" column="24" selection-start-line="70" selection-start-column="24" selection-end-line="70" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://E:/文档/kotlin实战/src/ch04/4.4.2_1_CompanionObjects.kt">
+    <entry file="file://E:/文档/kotlin实战/src/ch05/5.2.4_1_FlatMapFlatten.kt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://E:/文档/kotlin实战/src/ch05/5.2.4_2_FlatMapFlatten1.kt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://E:/文档/kotlin实战/src/ch05/5.2.3_1_GroupBy.kt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter05/5.2.3_GroupBy.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter05/5.2.4_FlatMapFlatten.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="13" column="54" selection-start-line="13" selection-start-column="54" selection-end-line="13" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/文档/kotlin实战/src/ch05/5.3.1_1_ExecutingSequenceOperations.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="37" lean-forward="true" selection-start-column="21" selection-end-column="37" />
+          <caret column="48" lean-forward="true" selection-start-column="21" selection-end-column="48" />
         </state>
       </provider>
     </entry>
-    <entry file="file://E:/文档/kotlin实战/src/ch04/4.4.2_2_CompanionObjects1.kt">
+    <entry file="file://E:/文档/kotlin实战/src/ch05/5.3.1_2_ExecutingSequenceOperations1.kt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter05/5.3.1_ExecutingSequenceOperations.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="4" column="31" lean-forward="true" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/common/kotlin/collections/Sequences.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="74">
+          <caret line="539" column="40" selection-start-line="539" selection-start-column="40" selection-end-line="539" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/文档/kotlin实战/src/ch05/5.3.2_1_CreatingSequences.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="38" lean-forward="true" selection-start-column="21" selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter04/4.4.3_ImplementInterfacesInCompanionObjects.kt">
+    <entry file="file://$PROJECT_DIR$/src/Chapter05/5.3.2_CreatingNumberSequences.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="9" column="77" lean-forward="true" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="77" />
+        <state>
+          <caret column="41" lean-forward="true" selection-start-column="18" selection-end-column="41" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter04/4.4.3_DeclareingNamedCompanionObject.kt">
+    <entry file="file://E:/文档/kotlin实战/src/ch05/5.3.2_2_CreatingSequences1.kt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter05/5.3.2_CreatingFatherFileSequences.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
-          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter04/4.4.2_CompanionObjects1.kt">
+    <entry file="file://$PROJECT_DIR$/src/Chapter05/5.4_SAMConstructors.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="512">
-          <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+        <state relative-caret-position="288">
+          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter04/4.1.1_1_InterfaceInKotlin.kt">
+    <entry file="file://E:/文档/kotlin实战/src/ch05/5.4.2_SAMConstructors.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+        <state>
+          <caret column="34" lean-forward="true" selection-start-column="19" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter04/4.1.1_2_Main.kt">
+    <entry file="file://$PROJECT_DIR$/src/Chapter05/5.5.1_Alphabet.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="7" column="21" lean-forward="true" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+        <state relative-caret-position="432">
+          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="14" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter04/4.1.2_2_AbstractClass.kt">
+    <entry file="file://E:/文档/kotlin实战/src/ch05/5.5.1_1_Alphabet.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+        <state>
+          <caret column="21" lean-forward="true" selection-start-column="13" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter04/4.1.2_1_OpenFinalAbstractModifiers.kt">
+    <entry file="file://E:/文档/kotlin实战/src/ch05/5.5.1_2_TheWithFunction1.kt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://E:/文档/kotlin实战/src/ch05/5.5.1_3_TheWithFunction2.kt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter05/5.5.1_TheWithFunction.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="576">
-          <caret line="16" column="35" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
+        <state relative-caret-position="764">
+          <caret line="25" column="33" lean-forward="true" selection-start-line="24" selection-start-column="4" selection-end-line="25" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter04/4.1.4_InnerAndNestedClass.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="756">
-          <caret line="21" column="51" selection-start-line="21" selection-start-column="51" selection-end-line="21" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter04/4.1.5_1_SealedClasses1.kt">
+    <entry file="file://$PROJECT_DIR$/src/Chapter05/5.5.2_TheApplyFunction.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
-          <caret line="3" selection-start-line="3" selection-end-line="4" selection-end-column="48" />
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="6" selection-end-column="40" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter04/4.1.5_2_SealedClasses2.kt">
+    <entry file="file://E:/文档/kotlin实战/src/ch05/5.5.2_2_TheApplyFunction1.kt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://E:/文档/kotlin实战/src/ch05/5.5.2_1_TheApplyFunction.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="2" column="38" lean-forward="true" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
+        <state>
+          <caret column="37" lean-forward="true" selection-start-column="21" selection-end-column="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter04/4.4.3_ExtensionFunctionForCompanionObject.kt">
+    <entry file="file://$PROJECT_DIR$/src/Chapter05/5.5.2_BuildString.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="749">
-            <caret line="68" column="17" selection-start-line="68" selection-start-column="17" selection-end-line="68" selection-end-column="17" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="1008">
-          <caret line="28" column="74" selection-start-line="28" selection-start-column="74" selection-end-line="28" selection-end-column="74" />
+        <state relative-caret-position="324">
+          <caret line="9" column="31" lean-forward="true" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
         </state>
       </provider>
     </entry>
