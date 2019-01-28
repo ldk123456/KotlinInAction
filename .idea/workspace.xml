@@ -2,29 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f1b87bdd-9267-4f82-80e6-94d4871d3de4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Chapter06/6.1.10_NullabilityOfTypeParameters.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter06/6.1.11_PlatformTypes.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter06/6.1.1_NullableType.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter06/6.1.3_LinkMultipleSafeCalls.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter06/6.1.3_NullablePropertiesBySafeCall.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter06/6.1.3_SafeCallOperator.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter06/6.1.4_ElvisOperator.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter06/6.1.4_ThrowAndElvisOperator.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter06/6.1.5_SafeCastsAs.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter06/6.1.6_NotnullAssertions.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter06/6.1.7_TheLetFunction.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter06/6.1.9_ExtensionsForNullableType.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter06/6.2.1_PrimitiveTypes.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter06/6.2.2_NullablePrimitiveTypes.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter06/6.2.3_NumberConversions.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter06/6.2.6_NothingType.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter06/6.3.1_AddValidNumbers.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter06/6.3.2_ReadonlyAndMutableCollections.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter06/6.3.3_KotlinCollectionsAndJava.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter06/6.3.5_Arrays.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter06/CollectionUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinInAction/META-INF/KotlinInAction.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinInAction/META-INF/KotlinInAction.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -36,10 +14,13 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Chapter06/6.3.5_Arrays.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="15" column="34" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="799">
+                <caret line="114" column="11" selection-start-line="114" selection-start-column="11" selection-end-line="114" selection-end-column="11" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -88,7 +69,6 @@
         <option value="$PROJECT_DIR$/src/Chapter05/5.5.1_TheWithFunction.kt" />
         <option value="$PROJECT_DIR$/src/Chapter05/5.5.2_TheApplyFunction.kt" />
         <option value="$PROJECT_DIR$/src/Chapter05/5.5.2_BuildString.kt" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/Chapter06/6.1.1_NullableType.kt" />
         <option value="$PROJECT_DIR$/src/Chapter06/6.1.3_SafeCallOperator.kt" />
         <option value="$PROJECT_DIR$/src/Chapter06/6.1.3_NullablePropertiesBySafeCall.kt" />
@@ -112,6 +92,7 @@
         <option value="$PROJECT_DIR$/src/Chapter06/CollectionUtils.java" />
         <option value="$PROJECT_DIR$/src/Chapter06/6.3.3_KotlinCollectionsAndJava.kt" />
         <option value="$PROJECT_DIR$/src/Chapter06/6.3.5_Arrays.kt" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -156,7 +137,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548657631314" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548658901772" />
     <property name="last_opened_file_path" value="E:/文档/kotlin实战/src/ch06/6.2.1_PrimitiveTypes.kt" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
@@ -271,7 +252,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.18070363" />
@@ -304,13 +285,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Chapter06/6.1.4_ElvisOperator.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="31" lean-forward="true" selection-start-column="18" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://E:/文档/kotlin实战/src/ch06/6.1.4_2_ElvisOperator1.kt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -416,13 +390,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
           <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter06/6.1.11_PlatformTypes.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="10" column="18" lean-forward="true" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
         </state>
       </provider>
     </entry>
@@ -612,6 +579,23 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="540">
           <caret line="15" column="34" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter06/6.1.11_PlatformTypes.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="10" column="18" lean-forward="true" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="799">
+            <caret line="114" column="11" selection-start-line="114" selection-start-column="11" selection-end-line="114" selection-end-column="11" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
