@@ -1,7 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f1b87bdd-9267-4f82-80e6-94d4871d3de4" name="Default Changelist" comment="" />
+    <list default="true" id="f1b87bdd-9267-4f82-80e6-94d4871d3de4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Chapter08/8.1.1_FunctionTypes.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter08/8.1.2_CallingFunctionsPassedAsArguments.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter08/8.1.2_SimpleFilter.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter08/8.1.3_ProcessTheAnswer.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter08/8.1.4_DefaultAndNullValuesForParametersWithFunctionTypes.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter08/8.1.4_JoinToStringDefault.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter08/8.1.5_ReturningFunctionsFromFunctions.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter08/8.1.5_ReturningFunctionsFromFunctionsInUI.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter08/8.1.6_RemovingDuplicationThroughLambdas1.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter08/8.1.6_RemovingDuplicationThroughLambdas2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter08/8.1.6_RemovingDuplicationThroughLambdas3.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter08/8.1.6_RemovingDuplicationThroughLambdas4.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter08/8.2.3_InliningCollectionOperations.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter08/8.2.3_ThisWithLabel.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter08/8.2.5_UsingInlinedLambdasForResourceManagement.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter08/8.3.1_LookForAlice.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter08/8.3.1_ReturnInLambdas.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter08/8.3.2_ReturnWithLabel.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter08/8.3.2_ReturningFromLambdas.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter08/8.3.3_AnonymousFunctions.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter08/ProcessTheAnswerAnonymous.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter08/ProcessTheAnswerLambda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter08/UsingForEach.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinInAction/META-INF/KotlinInAction.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinInAction/META-INF/KotlinInAction.kotlin_module" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,15 +36,66 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Chapter08/8.3.1_LookForAlice.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="468">
+              <caret line="13" column="65" selection-start-line="13" selection-start-column="65" selection-end-line="13" selection-end-column="65" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Chapter08/8.3.1_ReturnInLambdas.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Chapter08/8.3.2_ReturnWithLabel.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="9" column="49" lean-forward="true" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Chapter08/8.3.2_ReturningFromLambdas.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="9" column="56" selection-start-line="9" selection-start-column="56" selection-end-line="9" selection-end-column="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Chapter08/8.2.3_ThisWithLabel.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="7" column="75" selection-start-line="7" selection-start-column="75" selection-end-line="7" selection-end-column="75" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="799">
-                <caret line="136" lean-forward="true" selection-start-line="136" selection-end-line="136" />
-              </first_editor>
-              <second_editor />
+        <entry file="file://$PROJECT_DIR$/src/Chapter08/8.3.3_AnonymousFunctions.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="7" column="33" lean-forward="true" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://E:/文档/kotlin实战/src/ch08/8.3.3_AnonymousFunctions.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="2" selection-start-line="2" selection-end-line="16" />
             </state>
           </provider>
         </entry>
@@ -34,36 +111,17 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <dirStrings>
+      <dir>G:\IdeaProjects\kotlin\KotlinInAction\src</dir>
+    </dirStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Chapter05/5.5.1_TheWithFunction.kt" />
-        <option value="$PROJECT_DIR$/src/Chapter05/5.5.2_TheApplyFunction.kt" />
-        <option value="$PROJECT_DIR$/src/Chapter05/5.5.2_BuildString.kt" />
-        <option value="$PROJECT_DIR$/src/Chapter06/6.1.1_NullableType.kt" />
-        <option value="$PROJECT_DIR$/src/Chapter06/6.1.3_SafeCallOperator.kt" />
-        <option value="$PROJECT_DIR$/src/Chapter06/6.1.3_NullablePropertiesBySafeCall.kt" />
-        <option value="$PROJECT_DIR$/src/Chapter06/6.1.4_ElvisOperator.kt" />
-        <option value="$PROJECT_DIR$/src/Chapter06/6.1.3_LinkMultipleSafeCalls.kt" />
-        <option value="$PROJECT_DIR$/src/Chapter06/6.1.4_ThrowAndElvisOperator.kt" />
-        <option value="$PROJECT_DIR$/src/Chapter06/6.1.5_SafeCastsAs.kt" />
-        <option value="$PROJECT_DIR$/src/Chapter06/6.1.6_NotnullAssertions.kt" />
-        <option value="$PROJECT_DIR$/src/Chapter06/6.1.7_TheLetFunction.kt" />
-        <option value="$PROJECT_DIR$/src/Chapter06/6.1.8_UsingNonNullToNullableProperties.kt" />
-        <option value="$PROJECT_DIR$/src/Chapter06/6.1.9_ExtensionsForNullableType.kt" />
-        <option value="$PROJECT_DIR$/src/Chapter06/6.1.10_NullabilityOfTypeParameters.kt" />
-        <option value="$PROJECT_DIR$/src/Chapter06/6.1.11_PlatformTypes.kt" />
-        <option value="$PROJECT_DIR$/src/Chapter06/6.2.1_PrimitiveTypes.kt" />
-        <option value="$PROJECT_DIR$/src/Chapter06/6.2.2_NullablePrimitiveTypes.kt" />
-        <option value="$PROJECT_DIR$/src/Chapter06/6.2.3_NumberConversions.kt" />
-        <option value="$PROJECT_DIR$/src/Chapter06/6.2.6_NothingType.kt" />
-        <option value="$PROJECT_DIR$/src/Chapter06/6.3.1_NullabilityAndCollections.kt" />
-        <option value="$PROJECT_DIR$/src/Chapter06/6.3.2_ReadonlyAndMutableCollections.kt" />
-        <option value="$PROJECT_DIR$/src/Chapter06/6.3.1_AddValidNumbers.kt" />
-        <option value="$PROJECT_DIR$/src/Chapter06/CollectionUtils.java" />
         <option value="$PROJECT_DIR$/src/Chapter06/6.3.3_KotlinCollectionsAndJava.kt" />
         <option value="$PROJECT_DIR$/src/Chapter06/6.3.5_Arrays.kt" />
         <option value="$PROJECT_DIR$/src/Chapter07/7.1.1_PointPlusMember.kt" />
@@ -91,6 +149,30 @@
         <option value="$PROJECT_DIR$/src/Chapter07/7.5.4_ImplementingDelegatedProperties4.kt" />
         <option value="$PROJECT_DIR$/src/Chapter07/7.5.5_StoringPropertyValuesInAMap.kt" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/Chapter08/8.1.1_FunctionTypes.kt" />
+        <option value="$PROJECT_DIR$/src/Chapter08/8.1.2_CallingFunctionsPassedAsArguments.kt" />
+        <option value="$PROJECT_DIR$/src/Chapter08/8.1.2_SimpleFilter.kt" />
+        <option value="$PROJECT_DIR$/src/Chapter08/ProcessTheAnswer.java" />
+        <option value="$PROJECT_DIR$/src/Chapter08/8.1.3_ProcessTheAnswer.kt" />
+        <option value="$PROJECT_DIR$/src/Chapter08/ProcessTheAnswerLambda.java" />
+        <option value="$PROJECT_DIR$/src/Chapter08/ProcessTheAnswerAnonymous.java" />
+        <option value="$PROJECT_DIR$/src/Chapter08/UsingForEach.java" />
+        <option value="$PROJECT_DIR$/src/Chapter08/8.1.4_JoinToStringDefault.kt" />
+        <option value="$PROJECT_DIR$/src/Chapter08/8.1.4_DefaultAndNullValuesForParametersWithFunctionTypes.kt" />
+        <option value="$PROJECT_DIR$/src/Chapter08/8.1.5_ReturningFunctionsFromFunctions.kt" />
+        <option value="$PROJECT_DIR$/src/Chapter08/8.1.5_ReturningFunctionsFromFunctionsInUI.kt" />
+        <option value="$PROJECT_DIR$/src/Chapter08/8.1.6_RemovingDuplicationThroughLambdas4.kt" />
+        <option value="$PROJECT_DIR$/src/Chapter08/8.1.6_RemovingDuplicationThroughLambdas3.kt" />
+        <option value="$PROJECT_DIR$/src/Chapter08/8.1.6_RemovingDuplicationThroughLambdas2.kt" />
+        <option value="$PROJECT_DIR$/src/Chapter08/8.1.6_RemovingDuplicationThroughLambdas1.kt" />
+        <option value="$PROJECT_DIR$/src/Chapter08/8.2.3_InliningCollectionOperations.kt" />
+        <option value="$PROJECT_DIR$/src/Chapter08/8.2.5_UsingInlinedLambdasForResourceManagement.kt" />
+        <option value="$PROJECT_DIR$/src/Chapter08/8.3.1_LookForAlice.kt" />
+        <option value="$PROJECT_DIR$/src/Chapter08/8.3.1_ReturnInLambdas.kt" />
+        <option value="$PROJECT_DIR$/src/Chapter08/8.3.2_ReturnWithLabel.kt" />
+        <option value="$PROJECT_DIR$/src/Chapter08/8.3.2_ReturningFromLambdas.kt" />
+        <option value="$PROJECT_DIR$/src/Chapter08/8.2.3_ThisWithLabel.kt" />
+        <option value="$PROJECT_DIR$/src/Chapter08/8.3.3_AnonymousFunctions.kt" />
       </list>
     </option>
   </component>
@@ -124,19 +206,19 @@
               <item name="KotlinInAction" type="b2602c69:ProjectViewProjectNode" />
               <item name="KotlinInAction" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter07" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter08" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548832374181" />
-    <property name="last_opened_file_path" value="E:/文档/kotlin实战/src/ch07/7.3.1_1_IndexOperator.kt" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549006270459" />
+    <property name="last_opened_file_path" value="E:/文档/kotlin实战/src/ch08/8.3.1_1_LookForAlice.kt" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
@@ -151,67 +233,67 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.Chapter07.StoringPropertyValuesInAMap._7_5_5_StoringPropertyValuesInAMapKt">
-    <configuration name="Chapter07.ImplementingDelegatedProperties1._7_5_3_ImplementingDelegatedProperties1Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Kotlin.Chapter08.AnonymousFunctions._8_3_3_AnonymousFunctionsKt">
+    <configuration name="Chapter08.AnonymousFunctions._8_3_3_AnonymousFunctionsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KotlinInAction" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Chapter07.ImplementingDelegatedProperties1._7_5_3_ImplementingDelegatedProperties1Kt" />
+      <option name="MAIN_CLASS_NAME" value="Chapter08.AnonymousFunctions._8_3_3_AnonymousFunctionsKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Chapter07.ImplementingDelegatedProperties2._7_5_3_ImplementingDelegatedProperties2Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="Chapter08.ReturnInLambdas._8_3_1_ReturnInLambdasKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KotlinInAction" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Chapter07.ImplementingDelegatedProperties2._7_5_3_ImplementingDelegatedProperties2Kt" />
+      <option name="MAIN_CLASS_NAME" value="Chapter08.ReturnInLambdas._8_3_1_ReturnInLambdasKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Chapter07.ImplementingDelegatedProperties3._7_5_3_ImplementingDelegatedProperties3Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="Chapter08.ReturnWithLabel._8_3_2_ReturnWithLabelKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KotlinInAction" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Chapter07.ImplementingDelegatedProperties3._7_5_3_ImplementingDelegatedProperties3Kt" />
+      <option name="MAIN_CLASS_NAME" value="Chapter08.ReturnWithLabel._8_3_2_ReturnWithLabelKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Chapter07.ImplementingDelegatedProperties4._7_5_3_ImplementingDelegatedProperties4Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="Chapter08.ReturningFromLambdas._8_3_2_ReturningFromLambdasKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KotlinInAction" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Chapter07.ImplementingDelegatedProperties4._7_5_3_ImplementingDelegatedProperties4Kt" />
+      <option name="MAIN_CLASS_NAME" value="Chapter08.ReturningFromLambdas._8_3_2_ReturningFromLambdasKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Chapter07.StoringPropertyValuesInAMap._7_5_5_StoringPropertyValuesInAMapKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="Chapter08.ThisWithLabel._8_2_3_ThisWithLabelKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KotlinInAction" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Chapter07.StoringPropertyValuesInAMap._7_5_5_StoringPropertyValuesInAMapKt" />
+      <option name="MAIN_CLASS_NAME" value="Chapter08.ThisWithLabel._8_2_3_ThisWithLabelKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -219,11 +301,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.Chapter07.StoringPropertyValuesInAMap._7_5_5_StoringPropertyValuesInAMapKt" />
-        <item itemvalue="Kotlin.Chapter07.ImplementingDelegatedProperties4._7_5_3_ImplementingDelegatedProperties4Kt" />
-        <item itemvalue="Kotlin.Chapter07.ImplementingDelegatedProperties3._7_5_3_ImplementingDelegatedProperties3Kt" />
-        <item itemvalue="Kotlin.Chapter07.ImplementingDelegatedProperties2._7_5_3_ImplementingDelegatedProperties2Kt" />
-        <item itemvalue="Kotlin.Chapter07.ImplementingDelegatedProperties1._7_5_3_ImplementingDelegatedProperties1Kt" />
+        <item itemvalue="Kotlin.Chapter08.AnonymousFunctions._8_3_3_AnonymousFunctionsKt" />
+        <item itemvalue="Kotlin.Chapter08.ThisWithLabel._8_2_3_ThisWithLabelKt" />
+        <item itemvalue="Kotlin.Chapter08.ReturningFromLambdas._8_3_2_ReturningFromLambdasKt" />
+        <item itemvalue="Kotlin.Chapter08.ReturnWithLabel._8_3_2_ReturnWithLabelKt" />
+        <item itemvalue="Kotlin.Chapter08.ReturnInLambdas._8_3_1_ReturnInLambdasKt" />
       </list>
     </recent_temporary>
   </component>
@@ -283,325 +365,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Chapter07/7.1.1_BinaryOperators.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="620">
-          <caret line="22" column="35" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/文档/kotlin实战/src/ch07/7.1.1_3_BinaryOperators2.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="36" selection-start-column="21" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/文档/kotlin实战/src/ch07/7.1.2_1_CompoundAssignmentOperators.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="48" lean-forward="true" selection-start-column="21" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter07/7.1.1_PointPlusMember.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/文档/kotlin实战/src/ch07/7.1.2_2_CompoundAssignmentOperators1.kt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://E:/文档/kotlin实战/src/ch07/7.1.2_3_CompoundAssignmentOperators2.kt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://E:/文档/kotlin实战/src/ch07/7.1.3_2_UnaryOperators1.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="35" selection-start-column="21" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/文档/kotlin实战/src/ch07/7.1.3_1_UnaryOperators.kt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter07/7.1.2_CompoundAssignmentOperators.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="5" column="42" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter07/7.1.3_UnaryOperators.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/文档/kotlin实战/src/ch07/7.2.1_EqualityOperators.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="36" lean-forward="true" selection-start-column="19" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter07/7.2.1_EqualityOperators.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="5" column="23" lean-forward="true" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/文档/kotlin实战/src/ch07/7.2.2_2_OrderingOperators1.kt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://E:/文档/kotlin实战/src/ch07/7.2.2_1_OrderingOperators.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="38" lean-forward="true" selection-start-column="21" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/common/kotlin/comparisons/Comparisons.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter07/7.2.2_OrderingOperators.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/文档/kotlin实战/src/ch07/7.3.1_2_IndexOperator1.kt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://E:/文档/kotlin实战/src/ch07/7.3.1_1_IndexOperator.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="34" selection-start-column="21" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter07/7.3.1_IndexOperator.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/文档/kotlin实战/src/ch07/7.3.2_InOperator.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/文档/kotlin实战/src/ch07/7.3.3_RangePriority.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="26" lean-forward="true" selection-start-column="13" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter07/7.3.2_InOperator.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="2" column="40" lean-forward="true" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/文档/kotlin实战/src/ch07/7.3.4_IteratorConvention.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="37" lean-forward="true" selection-start-column="19" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter07/7.3.3_RangePriority.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter07/7.3.4_IteratorConvention.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="14" column="46" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/文档/kotlin实战/src/ch07/7.4_1_DestructuringDeclarations.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="44" lean-forward="true" selection-start-column="19" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter07/7.4_DestructuringDeclarations.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/文档/kotlin实战/src/ch07/7.4_3_DestructuringDeclarations2.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="6" column="30" lean-forward="true" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/文档/kotlin实战/src/ch07/7.4_2_SplitFilename.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="8" column="47" lean-forward="true" selection-start-line="8" selection-start-column="47" selection-end-line="8" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter07/7.4_SplitFilename.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="13" column="27" lean-forward="true" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter07/7.4.1_DestructuringDeclarationsAndLoops.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="3" column="50" selection-start-line="3" selection-start-column="50" selection-end-line="3" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/文档/kotlin实战/src/ch07/7.4.1_DestructuringDeclarationsAndLoops.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="52" lean-forward="true" selection-start-column="19" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter07/7.5.1_DelegateProperties.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter07/7.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter07/7.5.2_LazyEmails.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="828">
-          <caret line="23" column="17" lean-forward="true" selection-start-line="20" selection-start-column="4" selection-end-line="23" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/文档/kotlin实战/src/ch07/7.5.2_2_LazyInitialization1.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="39" lean-forward="true" selection-start-column="21" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/文档/kotlin实战/src/ch07/7.5.2_1_LazyEmails.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="23" lean-forward="true" selection-start-column="13" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter07/7.5.2_LazyInitialization.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/文档/kotlin实战/src/ch07/7.5.3_1_ImplementingDelegatedProperties.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="44" lean-forward="true" selection-start-column="13" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter07/7.5.3_PropertyChangeAware.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter07/7.5.3_ImplementingDelegatedProperties1.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="620">
-          <caret line="30" column="50" lean-forward="true" selection-start-line="27" selection-start-column="4" selection-end-line="30" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/文档/kotlin实战/src/ch07/7.5.3_2_ImplementingDelegatedProperties1.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="54" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter07/7.5.3_ImplementingDelegatedProperties2.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="684">
-          <caret line="39" column="1" lean-forward="true" selection-start-line="27" selection-end-line="39" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/文档/kotlin实战/src/ch07/7.5.3_3_ImplementingDelegatedProperties2.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="620">
-          <caret line="29" selection-start-line="29" selection-end-line="35" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter07/7.5.3_ImplementingDelegatedProperties3.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="23" selection-start-line="23" selection-end-line="35" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/文档/kotlin实战/src/ch07/7.5.3_4_ImplementingDelegatedProperties3.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-612">
-          <caret line="7" column="32" lean-forward="true" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/文档/kotlin实战/src/ch07/7.5.5_2_StoringPropertyValuesInAMap1.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="48" lean-forward="true" selection-start-column="21" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter07/7.5.4_ImplementingDelegatedProperties4.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="296">
-          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/文档/kotlin实战/src/ch07/7.5.5_1_ExpandoObject.kt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Chapter07/7.5.5_StoringPropertyValuesInAMap.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="684">
@@ -616,6 +379,334 @@
             <caret line="136" lean-forward="true" selection-start-line="136" selection-end-line="136" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter07/7.5.3_ImplementingDelegatedProperties4.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/文档/kotlin实战/src/ch08/8.1.1_FunctionTypes.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="32" lean-forward="true" selection-start-column="19" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter08/8.1.2_CallingFunctionsPassedAsArguments.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="2" column="61" selection-start-line="2" selection-start-column="61" selection-end-line="2" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/文档/kotlin实战/src/ch08/8.1.2_1_CallingFunctionsPassedAsArguments.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="54" lean-forward="true" selection-start-column="21" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/文档/kotlin实战/src/ch08/8.1.2_2_CallingFunctionsPassedAsArguments1.kt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter08/8.1.2_SimpleFilter.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="14" column="73" selection-start-line="14" selection-start-column="73" selection-end-line="14" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/文档/kotlin实战/src/ch08/8.1.3_1_ProcessTheAnswer.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib.jar!/kotlin/jvm/functions/Function1.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://E:/文档/kotlin实战/src/ch08/ProcessTheAnswerLambda.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="3" column="19" lean-forward="true" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter08/ProcessTheAnswerLambda.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter08/8.1.3_ProcessTheAnswer.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/文档/kotlin实战/src/ch08/ProcessTheAnswerAnonymous.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="38" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter08/ProcessTheAnswerAnonymous.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="10" column="77" selection-start-line="10" selection-start-column="77" selection-end-line="10" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter08/UsingForEach.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="15" column="57" selection-start-line="15" selection-start-column="57" selection-end-line="15" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/文档/kotlin实战/src/ch08/UsingForEach.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/文档/kotlin实战/src/ch08/8.1.4_2_DefaultAndNullValuesForParametersWithFunctionTypes1.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="71" selection-start-column="21" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter08/8.1.4_JoinToStringDefault.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="28" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter08/8.1.4_DefaultAndNullValuesForParametersWithFunctionTypes.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="14" column="64" selection-start-line="14" selection-start-column="64" selection-end-line="14" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/文档/kotlin实战/src/ch08/8.1.4_1_JoinToStringDefault.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-280">
+          <caret column="32" lean-forward="true" selection-start-column="13" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/文档/kotlin实战/src/ch08/8.1.5_1_ReturningFunctionsFromFunctions.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="21" lean-forward="true" selection-start-column="21" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter08/8.1.1_FunctionTypes.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="10" column="64" selection-start-line="10" selection-start-column="64" selection-end-line="10" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter08/8.1.5_ReturningFunctionsFromFunctions.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/文档/kotlin实战/src/ch08/8.1.5_2_ReturningFunctionsFromFunctions1.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-604">
+          <caret column="52" selection-start-column="21" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter08/8.1.5_ReturningFunctionsFromFunctionsInUI.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/文档/kotlin实战/src/ch08/8.1.6_1_RemovingDuplicationThroughLambdas.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="11" column="37" lean-forward="true" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/文档/kotlin实战/src/ch08/8.1.6_2_RemovingDuplicationThroughLambdas1.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-108" />
+      </provider>
+    </entry>
+    <entry file="file://E:/文档/kotlin实战/src/ch08/8.1.6_3_RemovingDuplicationThroughLambdas2.kt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter08/8.1.6_RemovingDuplicationThroughLambdas1.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="16" column="38" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter08/8.1.6_RemovingDuplicationThroughLambdas3.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="27" selection-start-column="27" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter08/8.1.6_RemovingDuplicationThroughLambdas2.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="16" column="38" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter08/8.1.6_RemovingDuplicationThroughLambdas4.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/文档/kotlin实战/src/ch08/8.1.6_4_RemovingDuplicationThroughLambdas3.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="584">
+          <caret line="25" column="50" lean-forward="true" selection-start-line="24" selection-start-column="4" selection-end-line="25" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/文档/kotlin实战/src/ch08/8.2.3_2_InliningCollectionOperations1.kt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://E:/文档/kotlin实战/src/ch08/8.2.3_1_InliningCollectionOperations.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="49" lean-forward="true" selection-start-column="21" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter08/8.2.3_InliningCollectionOperations.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="8" column="34" lean-forward="true" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/文档/kotlin实战/src/ch08/8.2.5_UsingInlinedLambdasForResourceManagement.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="59" lean-forward="true" selection-start-column="19" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter08/8.2.5_UsingInlinedLambdasForResourceManagement.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="7" column="45" selection-start-line="7" selection-start-column="45" selection-end-line="7" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/文档/kotlin实战/src/ch08/8.3.1_2_ReturnInLambdas1.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="36" selection-start-column="21" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter08/8.3.1_LookForAlice.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="13" column="65" selection-start-line="13" selection-start-column="65" selection-end-line="13" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/文档/kotlin实战/src/ch08/8.3.1_1_LookForAlice.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="25" lean-forward="true" selection-start-column="13" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter08/8.3.1_ReturnInLambdas.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/文档/kotlin实战/src/ch08/8.3.2_1_ReturnWithLabel.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="9" lean-forward="true" selection-start-column="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/文档/kotlin实战/src/ch08/8.3.2_2_ReturningFromLambdas1.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="41" lean-forward="true" selection-start-column="21" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter08/8.3.2_ReturnWithLabel.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="9" column="49" lean-forward="true" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter08/8.3.2_ReturningFromLambdas.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="9" column="56" selection-start-line="9" selection-start-column="56" selection-end-line="9" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/文档/kotlin实战/src/ch08/8.3.2_3_ReturningFromLambdas2.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter08/8.2.3_ThisWithLabel.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="7" column="75" selection-start-line="7" selection-start-column="75" selection-end-line="7" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/文档/kotlin实战/src/ch08/8.3.3_AnonymousFunctions.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="2" selection-start-line="2" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter08/8.3.3_AnonymousFunctions.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="7" column="33" lean-forward="true" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
         </state>
       </provider>
     </entry>
