@@ -102,7 +102,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="781" />
     <option name="y" value="222" />
     <option name="width" value="974" />
@@ -137,7 +137,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549007475210" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549007501972" />
     <property name="last_opened_file_path" value="E:/文档/kotlin实战/src/ch08/8.3.1_1_LookForAlice.kt" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
@@ -206,14 +206,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Chapter08.ThisWithLabel._8_2_3_ThisWithLabelKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="Chapter08.ThisWithLabel._8_3_2_ThisWithLabelKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KotlinInAction" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Chapter08.ThisWithLabel._8_2_3_ThisWithLabelKt" />
+      <option name="MAIN_CLASS_NAME" value="Chapter08.ThisWithLabel._8_3_2_ThisWithLabelKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -222,7 +222,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Kotlin.Chapter08.AnonymousFunctions._8_3_3_AnonymousFunctionsKt" />
-        <item itemvalue="Kotlin.Chapter08.ThisWithLabel._8_2_3_ThisWithLabelKt" />
+        <item itemvalue="Kotlin.Chapter08.ThisWithLabel._8_3_2_ThisWithLabelKt" />
         <item itemvalue="Kotlin.Chapter08.ReturningFromLambdas._8_3_2_ReturningFromLambdasKt" />
         <item itemvalue="Kotlin.Chapter08.ReturnWithLabel._8_3_2_ReturnWithLabelKt" />
         <item itemvalue="Kotlin.Chapter08.ReturnInLambdas._8_3_1_ReturnInLambdasKt" />
