@@ -2,22 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f1b87bdd-9267-4f82-80e6-94d4871d3de4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Chapter09/9.1.1_GenericExtensionProperties.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter09/9.1.1_GenericFunctionsAndProperties.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter09/9.1.3_MultipleConstraintsOnTypeParameter.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter09/9.1.3_TypeParameterConstraintFunctions.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter09/9.1.3_TypeParameterConstraints.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter09/9.2.1_GenericsAtRuntimeTypeChecksAndCasts.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter09/9.2.2_DeclaringFunctionsWithReifiedTypeParameters.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter09/9.3.1_WhyVarianceExists.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter09/9.3.5_CopyDataAny.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter09/9.3.5_CopyDataIn.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter09/9.3.5_CopyDataOut.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter09/9.3.6_FieldValidator.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter09/9.3.6_PrintFirst.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter09/9.3.6_StarProjection.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinInAction/META-INF/KotlinInAction.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinInAction/META-INF/KotlinInAction.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,47 +13,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Chapter09/9.3.5_CopyDataIn.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Chapter09/9.3.6_PrintFirst.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="4" column="49" selection-start-line="4" selection-start-column="49" selection-end-line="4" selection-end-column="49" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Chapter09/9.3.6_FieldValidator.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="5" column="59" selection-start-line="5" selection-start-column="59" selection-end-line="5" selection-end-column="59" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Chapter09/9.3.6_StarProjection.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="2" column="28" lean-forward="true" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://E:/文档/kotlin实战/src/ch09/9.3.6.2_4_StarProjection3.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="296">
-              <caret line="16" selection-start-line="16" selection-end-line="37" selection-end-column="1" />
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="799">
+                <caret line="162" column="10" selection-start-line="162" selection-start-column="10" selection-end-line="162" selection-end-column="10" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -130,7 +82,6 @@
         <option value="$PROJECT_DIR$/src/Chapter08/8.3.2_ReturningFromLambdas.kt" />
         <option value="$PROJECT_DIR$/src/Chapter08/8.2.3_ThisWithLabel.kt" />
         <option value="$PROJECT_DIR$/src/Chapter08/8.3.3_AnonymousFunctions.kt" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/Chapter09/9.1.1_GenericFunctionsAndProperties.kt" />
         <option value="$PROJECT_DIR$/src/Chapter09/9.1.1_GeneralizationOfHighFunctions.kt" />
         <option value="$PROJECT_DIR$/src/Chapter09/9.1.1_GenericExtensionProperties.kt" />
@@ -146,10 +97,11 @@
         <option value="$PROJECT_DIR$/src/Chapter09/9.3.6_PrintFirst.kt" />
         <option value="$PROJECT_DIR$/src/Chapter09/9.3.6_FieldValidator.kt" />
         <option value="$PROJECT_DIR$/src/Chapter09/9.3.6_StarProjection.kt" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="781" />
     <option name="y" value="222" />
     <option name="width" value="974" />
@@ -162,10 +114,24 @@
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="KotlinInAction" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KotlinInAction" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549088671594" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549089367909" />
     <property name="last_opened_file_path" value="E:/文档/kotlin实战/src/ch09/9.2.1_1_GenericsAtRuntimeTypeChecksAndCasts.kt" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
@@ -428,16 +394,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="799">
-            <caret line="153" lean-forward="true" selection-start-line="153" selection-end-line="153" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Chapter08/8.3.2_ThisWithLabel.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
@@ -644,8 +600,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Chapter09/9.3.6_StarProjection.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="2" column="28" lean-forward="true" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+        <state relative-caret-position="1296">
+          <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="799">
+            <caret line="162" column="10" selection-start-line="162" selection-start-column="10" selection-end-line="162" selection-end-column="10" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
