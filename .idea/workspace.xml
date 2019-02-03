@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f1b87bdd-9267-4f82-80e6-94d4871d3de4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Chapter11/11.2.1_LambdasWithReceivers1.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter11/11.2.1_LambdasWithReceivers2.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter11/11.2.1_LambdasWithReceivers3.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter11/11.2.1_LambdasWithReceivers4.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter11/11.2.2_HtmlTags.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter11/11.3.1_InvokeConvention.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter11/11.3.2_InvokeConventionAndFunctionalTypes.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter11/11.3.3_InvokeConventionInDSLs.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter11/11.4.1_ShouldTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter11/11.4.2_ExtensionsOnPrimitiveTypes.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinInAction/META-INF/KotlinInAction.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinInAction/META-INF/KotlinInAction.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,20 +13,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Chapter11/11.4.1_ShouldTest.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="504">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Chapter11/11.4.2_ExtensionsOnPrimitiveTypes.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="612">
-              <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="799">
+                <caret line="173" column="11" selection-start-line="173" selection-start-column="11" selection-end-line="173" selection-end-column="11" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -104,7 +87,6 @@
         <option value="$PROJECT_DIR$/src/Chapter09/9.3.6_StarProjection.kt" />
         <option value="$PROJECT_DIR$/src/Chapter10/10.1.1_AppliedAnnotations.kt" />
         <option value="$PROJECT_DIR$/src/Chapter10/10.2.1_ReflectionAPI.kt" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/Chapter11/11.2.1_LambdasWithReceivers1.kt" />
         <option value="$PROJECT_DIR$/src/Chapter11/11.2.1_LambdasWithReceivers2.kt" />
         <option value="$PROJECT_DIR$/src/Chapter11/11.2.1_LambdasWithReceivers3.kt" />
@@ -115,10 +97,11 @@
         <option value="$PROJECT_DIR$/src/Chapter11/11.3.3_InvokeConventionInDSLs.kt" />
         <option value="$PROJECT_DIR$/src/Chapter11/11.4.1_ShouldTest.kt" />
         <option value="$PROJECT_DIR$/src/Chapter11/11.4.2_ExtensionsOnPrimitiveTypes.kt" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="781" />
     <option name="y" value="222" />
     <option name="width" value="974" />
@@ -146,12 +129,6 @@
               <item name="KotlinInAction" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="KotlinInAction" type="b2602c69:ProjectViewProjectNode" />
-              <item name="KotlinInAction" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter11" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -163,7 +140,7 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549191057133" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549191591737" />
     <property name="last_opened_file_path" value="E:/文档/kotlin实战/src/ch11/11.2.1_1_LambdasWithReceivers.kt" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
@@ -278,7 +255,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.18070363" />
@@ -475,16 +452,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="799">
-            <caret line="169" lean-forward="true" selection-start-line="169" selection-end-line="169" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Chapter11.kt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -623,6 +590,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="612">
           <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="799">
+            <caret line="173" column="11" selection-start-line="173" selection-start-column="11" selection-end-line="173" selection-end-column="11" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>

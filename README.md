@@ -167,3 +167,11 @@
 #### 9.13 [星号投影：使用*代替类型参数](https://github.com/ldk123456/KotlinInAction/blob/master/src/Chapter09/9.3.6_StarProjection.kt)
 ### 10. *反射*
 #### 10.1 [反射API](https://github.com/ldk123456/KotlinInAction/blob/master/src/Chapter10/10.2.1_ReflectionAPI.kt)
+### 11. *DSL构建*
+#### 11.1 [带接收者的lambda](https://github.com/ldk123456/KotlinInAction/blob/master/src/Chapter11/11.2.1_LambdasWithReceivers2.kt)
+#### 11.2 [在HTML构建器中使用带接受者的lambda](https://github.com/ldk123456/KotlinInAction/blob/master/src/Chapter11/11.2.2_HtmlTags.kt)
+#### 11.3 [invoke约定：像函数一样可以调用的对象](https://github.com/ldk123456/KotlinInAction/blob/master/src/Chapter11/11.3.1_InvokeConvention.kt)
+#### 11.4 [invoke约定和函数式类型](https://github.com/ldk123456/KotlinInAction/blob/master/src/Chapter11/11.3.2_InvokeConventionAndFunctionalTypes.kt)
+#### 11.5 [DSL中的invoke约定](https://github.com/ldk123456/KotlinInAction/blob/master/src/Chapter11/11.3.3_InvokeConventionInDSLs.kt)
+#### 11.6 [测试框架中的should](https://github.com/ldk123456/KotlinInAction/blob/master/src/Chapter11/11.4.1_ShouldTest.kt)
+#### 11.7 [在基本数据类型上定义扩展](https://github.com/ldk123456/KotlinInAction/blob/master/src/Chapter11/11.4.2_ExtensionsOnPrimitiveTypes.kt)
