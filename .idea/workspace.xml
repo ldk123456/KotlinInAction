@@ -2,7 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f1b87bdd-9267-4f82-80e6-94d4871d3de4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter11/11.2.1_LambdasWithReceivers1.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter11/11.2.1_LambdasWithReceivers2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter11/11.2.1_LambdasWithReceivers3.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter11/11.2.1_LambdasWithReceivers4.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter11/11.2.2_HtmlTags.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter11/11.3.1_InvokeConvention.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter11/11.3.2_InvokeConventionAndFunctionalTypes.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter11/11.3.3_InvokeConventionInDSLs.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter11/11.4.1_ShouldTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter11/11.4.2_ExtensionsOnPrimitiveTypes.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinInAction/META-INF/KotlinInAction.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinInAction/META-INF/KotlinInAction.kotlin_module" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -12,15 +23,21 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Chapter11/11.4.1_ShouldTest.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="504">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="799">
-                <caret line="168" column="18" selection-start-line="168" selection-start-column="18" selection-end-line="168" selection-end-column="18" />
-              </first_editor>
-              <second_editor />
+        <entry file="file://$PROJECT_DIR$/src/Chapter11/11.4.2_ExtensionsOnPrimitiveTypes.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="612">
+              <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -47,16 +64,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Chapter07/7.5.2_LazyEmails.kt" />
-        <option value="$PROJECT_DIR$/src/Chapter07/7.kt" />
-        <option value="$PROJECT_DIR$/src/Chapter07/7.5.2_LazyInitialization.kt" />
-        <option value="$PROJECT_DIR$/src/Chapter07/7.5.3_PropertyChangeAware.kt" />
-        <option value="$PROJECT_DIR$/src/Chapter07/7.5.3_ImplementingDelegatedProperties1.kt" />
-        <option value="$PROJECT_DIR$/src/Chapter07/7.5.3_ImplementingDelegatedProperties2.kt" />
-        <option value="$PROJECT_DIR$/src/Chapter07/7.5.3_ImplementingDelegatedProperties3.kt" />
-        <option value="$PROJECT_DIR$/src/Chapter07/7.5.4_ImplementingDelegatedProperties4.kt" />
-        <option value="$PROJECT_DIR$/src/Chapter07/7.5.5_StoringPropertyValuesInAMap.kt" />
-        <option value="$PROJECT_DIR$/src/Chapter08/8.1.1_FunctionTypes.kt" />
         <option value="$PROJECT_DIR$/src/Chapter08/8.1.2_CallingFunctionsPassedAsArguments.kt" />
         <option value="$PROJECT_DIR$/src/Chapter08/8.1.2_SimpleFilter.kt" />
         <option value="$PROJECT_DIR$/src/Chapter08/ProcessTheAnswer.java" />
@@ -98,10 +105,20 @@
         <option value="$PROJECT_DIR$/src/Chapter10/10.1.1_AppliedAnnotations.kt" />
         <option value="$PROJECT_DIR$/src/Chapter10/10.2.1_ReflectionAPI.kt" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/Chapter11/11.2.1_LambdasWithReceivers1.kt" />
+        <option value="$PROJECT_DIR$/src/Chapter11/11.2.1_LambdasWithReceivers2.kt" />
+        <option value="$PROJECT_DIR$/src/Chapter11/11.2.1_LambdasWithReceivers3.kt" />
+        <option value="$PROJECT_DIR$/src/Chapter11/11.2.1_LambdasWithReceivers4.kt" />
+        <option value="$PROJECT_DIR$/src/Chapter11/11.2.2_HtmlTags.kt" />
+        <option value="$PROJECT_DIR$/src/Chapter11/11.3.1_InvokeConvention.kt" />
+        <option value="$PROJECT_DIR$/src/Chapter11/11.3.2_InvokeConventionAndFunctionalTypes.kt" />
+        <option value="$PROJECT_DIR$/src/Chapter11/11.3.3_InvokeConventionInDSLs.kt" />
+        <option value="$PROJECT_DIR$/src/Chapter11/11.4.1_ShouldTest.kt" />
+        <option value="$PROJECT_DIR$/src/Chapter11/11.4.2_ExtensionsOnPrimitiveTypes.kt" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="781" />
     <option name="y" value="222" />
     <option name="width" value="974" />
@@ -116,6 +133,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -123,11 +141,21 @@
               <item name="KotlinInAction" type="b2602c69:ProjectViewProjectNode" />
               <item name="KotlinInAction" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="KotlinInAction" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KotlinInAction" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="KotlinInAction" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KotlinInAction" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter11" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -135,8 +163,8 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549164728984" />
-    <property name="last_opened_file_path" value="E:/文档/kotlin实战/src/ch10/10.2.1_1_ReflectionAPI.kt" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549191057133" />
+    <property name="last_opened_file_path" value="E:/文档/kotlin实战/src/ch11/11.2.1_1_LambdasWithReceivers.kt" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
@@ -151,67 +179,67 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.Chapter10.ReflectionAPI._10_2_1_ReflectionAPIKt">
-    <configuration name="Chapter09.CopyDataIn._9_3_5_CopyDataInKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Kotlin.Chapter11.ExtensionsOnPrimitiveTypes._11_4_2_ExtensionsOnPrimitiveTypesKt">
+    <configuration name="Chapter11.ExtensionsOnPrimitiveTypes._11_4_2_ExtensionsOnPrimitiveTypesKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KotlinInAction" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Chapter09.CopyDataIn._9_3_5_CopyDataInKt" />
+      <option name="MAIN_CLASS_NAME" value="Chapter11.ExtensionsOnPrimitiveTypes._11_4_2_ExtensionsOnPrimitiveTypesKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Chapter09.CopyDataOut._9_3_5_CopyDataOutKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="Chapter11.InvokeConventionAndFunctionalTypes._11_3_2_InvokeConventionAndFunctionalTypesKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KotlinInAction" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Chapter09.CopyDataOut._9_3_5_CopyDataOutKt" />
+      <option name="MAIN_CLASS_NAME" value="Chapter11.InvokeConventionAndFunctionalTypes._11_3_2_InvokeConventionAndFunctionalTypesKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Chapter09.PrintFirst._9_3_6_PrintFirstKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="Chapter11.InvokeConventionInDSLs._11_3_3_InvokeConventionInDSLsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KotlinInAction" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Chapter09.PrintFirst._9_3_6_PrintFirstKt" />
+      <option name="MAIN_CLASS_NAME" value="Chapter11.InvokeConventionInDSLs._11_3_3_InvokeConventionInDSLsKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Chapter09.StarProjection._9_3_6_StarProjectionKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="Chapter11.InvokeConvention._11_3_1_InvokeConventionKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KotlinInAction" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Chapter09.StarProjection._9_3_6_StarProjectionKt" />
+      <option name="MAIN_CLASS_NAME" value="Chapter11.InvokeConvention._11_3_1_InvokeConventionKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Chapter10.ReflectionAPI._10_2_1_ReflectionAPIKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="Chapter11.ShouldTest._11_4_1_ShouldTestKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KotlinInAction" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Chapter10.ReflectionAPI._10_2_1_ReflectionAPIKt" />
+      <option name="MAIN_CLASS_NAME" value="Chapter11.ShouldTest._11_4_1_ShouldTestKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -219,11 +247,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.Chapter10.ReflectionAPI._10_2_1_ReflectionAPIKt" />
-        <item itemvalue="Kotlin.Chapter09.StarProjection._9_3_6_StarProjectionKt" />
-        <item itemvalue="Kotlin.Chapter09.PrintFirst._9_3_6_PrintFirstKt" />
-        <item itemvalue="Kotlin.Chapter09.CopyDataIn._9_3_5_CopyDataInKt" />
-        <item itemvalue="Kotlin.Chapter09.CopyDataOut._9_3_5_CopyDataOutKt" />
+        <item itemvalue="Kotlin.Chapter11.ExtensionsOnPrimitiveTypes._11_4_2_ExtensionsOnPrimitiveTypesKt" />
+        <item itemvalue="Kotlin.Chapter11.ShouldTest._11_4_1_ShouldTestKt" />
+        <item itemvalue="Kotlin.Chapter11.InvokeConventionInDSLs._11_3_3_InvokeConventionInDSLsKt" />
+        <item itemvalue="Kotlin.Chapter11.InvokeConventionAndFunctionalTypes._11_3_2_InvokeConventionAndFunctionalTypesKt" />
+        <item itemvalue="Kotlin.Chapter11.InvokeConvention._11_3_1_InvokeConventionKt" />
       </list>
     </recent_temporary>
   </component>
@@ -250,7 +278,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.18070363" />
@@ -283,159 +311,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://E:/文档/kotlin实战/src/ch08/8.3.1_1_LookForAlice.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="25" lean-forward="true" selection-start-column="13" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter08/8.3.1_ReturnInLambdas.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/文档/kotlin实战/src/ch08/8.3.2_1_ReturnWithLabel.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="9" lean-forward="true" selection-start-column="9" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/文档/kotlin实战/src/ch08/8.3.2_2_ReturningFromLambdas1.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="41" lean-forward="true" selection-start-column="21" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter08/8.3.2_ReturnWithLabel.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="9" column="49" lean-forward="true" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/文档/kotlin实战/src/ch08/8.3.2_3_ReturningFromLambdas2.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/文档/kotlin实战/src/ch08/8.3.3_AnonymousFunctions.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="2" selection-start-line="2" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter08/8.3.2_ReturningFromLambdas.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="9" column="56" selection-start-line="9" selection-start-column="56" selection-end-line="9" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter08/8.3.3_AnonymousFunctions.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="9" column="42" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter08/8.3.2_ThisWithLabel.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="7" column="75" selection-start-line="7" selection-start-column="75" selection-end-line="7" selection-end-column="75" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/文档/kotlin实战/src/ch09/9.1.1_1_GenericFunctionsAndProperties.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="50" lean-forward="true" selection-start-column="21" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter09/9.1.1_GenericFunctionsAndProperties.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="6" column="53" selection-start-line="6" selection-start-column="53" selection-end-line="6" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/文档/kotlin实战/src/ch09/9.1.1_2_GenericFunctionsAndProperties1.kt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter09/9.1.1_GenericExtensionProperties.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="37" lean-forward="true" selection-start-column="37" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/文档/kotlin实战/src/ch09/9.1.3_1_TypeParameterConstraints.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="45" lean-forward="true" selection-start-column="21" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter09/9.1.3_TypeParameterConstraints.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="41" selection-start-column="18" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/文档/kotlin实战/src/ch09/9.1.3_2_TypeParameterConstraints1.kt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter09/9.1.3_TypeParameterConstraintFunctions.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/文档/kotlin实战/src/ch09/9.1.3_3_TypeParameterConstraints2.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="2" column="23" lean-forward="true" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter09/9.1.3_MultipleConstraintsOnTypeParameter.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="5" column="43" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/文档/kotlin实战/src/ch09/9.2.1_1_GenericsAtRuntimeTypeChecksAndCasts.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="56" lean-forward="true" selection-start-column="21" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/文档/kotlin实战/src/ch09/9.2.1_2_GenericsAtRuntimeTypeChecksAndCasts1.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="4" column="24" lean-forward="true" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter09/9.2.1_GenericsAtRuntimeTypeChecksAndCasts.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="296">
-          <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://E:/文档/kotlin实战/src/ch09/9.2.2_1_DeclaringFunctionsWithReifiedTypeParameters.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -557,13 +432,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter10/10.1.1_AppliedAnnotations.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter10/10.1.1_AppliedAnnotations.kt" />
     <entry file="file://E:/文档/kotlin实战/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -610,9 +479,150 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="799">
-            <caret line="168" column="18" selection-start-line="168" selection-start-column="18" selection-end-line="168" selection-end-column="18" />
+            <caret line="169" lean-forward="true" selection-start-line="169" selection-end-line="169" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter11.kt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://E:/文档/kotlin实战/src/ch11/11.2.1_2_LambdasWithReceivers1.kt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://E:/文档/kotlin实战/src/ch11/11.2.1_1_LambdasWithReceivers.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="41" lean-forward="true" selection-start-column="21" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter11/11.2.1_LambdasWithReceivers2.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="38" selection-start-column="18" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter11/11.2.1_LambdasWithReceivers3.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="38" selection-start-column="18" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/文档/kotlin实战/src/ch11/11.2.1_3_LambdasWithReceivers2.kt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/common/kotlin/contracts/ContractBuilder.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="83" column="33" selection-start-line="83" selection-start-column="33" selection-end-line="83" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/common/kotlin/util/Standard.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="59" column="25" selection-start-line="59" selection-start-column="25" selection-end-line="59" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter11/11.2.1_LambdasWithReceivers4.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/文档/kotlin实战/src/ch11/11.2.1_4_LambdasWithReceivers3.kt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter11/11.2.1_LambdasWithReceivers1.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="11" column="4" lean-forward="true" selection-start-line="11" selection-start-column="4" selection-end-line="16" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/文档/kotlin实战/src/ch11/11.2.2_2_UsingLambdasWithReceiversInHTMLBuilders1.kt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://E:/文档/kotlin实战/src/ch11/11.2.2_1_HtmlTags.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" lean-forward="true" selection-start-column="13" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter11/11.2.2_HtmlTags.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1656">
+          <caret line="46" column="1" selection-start-line="46" selection-start-column="1" selection-end-line="46" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/文档/kotlin实战/src/ch11/11.3.1_InvokeConvention.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="35" lean-forward="true" selection-start-column="19" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter11/11.3.1_InvokeConvention.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/文档/kotlin实战/src/ch11/11.3.2_InvokeConventionAndFunctionalTypes.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="21" column="4" lean-forward="true" selection-start-line="21" selection-start-column="4" selection-end-line="24" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/文档/kotlin实战/src/ch11/11.3.3_InvokeConventionInDSLs.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="15" column="66" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter11/11.3.3_InvokeConventionInDSLs.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter11/11.3.2_InvokeConventionAndFunctionalTypes.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="9" column="41" lean-forward="true" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/文档/kotlin实战/src/ch11/11.4.2_ExtensionsOnPrimitiveTypes.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="45" lean-forward="true" selection-start-column="19" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter11/11.4.1_ShouldTest.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter11/11.4.2_ExtensionsOnPrimitiveTypes.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
         </state>
       </provider>
     </entry>
