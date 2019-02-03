@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f1b87bdd-9267-4f82-80e6-94d4871d3de4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter10/10.2.1_ReflectionAPI.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KotlinInAction.iml" beforeDir="false" afterPath="$PROJECT_DIR$/KotlinInAction.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinInAction/META-INF/KotlinInAction.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinInAction/META-INF/KotlinInAction.kotlin_module" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,15 +17,17 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="799">
-                <caret line="162" column="10" selection-start-line="162" selection-start-column="10" selection-end-line="162" selection-end-column="10" />
-              </first_editor>
-              <second_editor />
+        <entry file="file://$PROJECT_DIR$/src/Chapter10/10.2.1_ReflectionAPI.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="620">
+              <caret line="37" column="11" selection-start-line="37" selection-start-column="11" selection-end-line="37" selection-end-column="11" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://E:/文档/kotlin实战/src/ch10/10.2.1_4_ReflectionAPI3.kt">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -47,8 +52,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Chapter07/7.4.1_DestructuringDeclarationsAndLoops.kt" />
-        <option value="$PROJECT_DIR$/src/Chapter07/7.5.1_DelegateProperties.kt" />
         <option value="$PROJECT_DIR$/src/Chapter07/7.5.2_LazyEmails.kt" />
         <option value="$PROJECT_DIR$/src/Chapter07/7.kt" />
         <option value="$PROJECT_DIR$/src/Chapter07/7.5.2_LazyInitialization.kt" />
@@ -98,10 +101,12 @@
         <option value="$PROJECT_DIR$/src/Chapter09/9.3.6_FieldValidator.kt" />
         <option value="$PROJECT_DIR$/src/Chapter09/9.3.6_StarProjection.kt" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/Chapter10/10.1.1_AppliedAnnotations.kt" />
+        <option value="$PROJECT_DIR$/src/Chapter10/10.2.1_ReflectionAPI.kt" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="781" />
     <option name="y" value="222" />
     <option name="width" value="974" />
@@ -115,7 +120,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -123,16 +128,25 @@
               <item name="KotlinInAction" type="b2602c69:ProjectViewProjectNode" />
               <item name="KotlinInAction" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="KotlinInAction" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KotlinInAction" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549089367909" />
-    <property name="last_opened_file_path" value="E:/文档/kotlin实战/src/ch09/9.2.1_1_GenericsAtRuntimeTypeChecksAndCasts.kt" />
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549164498485" />
+    <property name="last_opened_file_path" value="E:/文档/kotlin实战/src/ch10/10.2.1_1_ReflectionAPI.kt" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
@@ -147,20 +161,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.Chapter09.StarProjection._9_3_6_StarProjectionKt">
-    <configuration name="Chapter09.CopyDataAny._9_3_5_CopyDataAnyKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="KotlinInAction" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Chapter09.CopyDataAny._9_3_5_CopyDataAnyKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.Chapter10.ReflectionAPI._10_2_1_ReflectionAPIKt">
     <configuration name="Chapter09.CopyDataIn._9_3_5_CopyDataInKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KotlinInAction" />
       <option name="VM_PARAMETERS" />
@@ -213,13 +214,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Chapter10.ReflectionAPI._10_2_1_ReflectionAPIKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="KotlinInAction" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Chapter10.ReflectionAPI._10_2_1_ReflectionAPIKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Chapter10.ReflectionAPI._10_2_1_ReflectionAPIKt" />
         <item itemvalue="Kotlin.Chapter09.StarProjection._9_3_6_StarProjectionKt" />
         <item itemvalue="Kotlin.Chapter09.PrintFirst._9_3_6_PrintFirstKt" />
         <item itemvalue="Kotlin.Chapter09.CopyDataIn._9_3_5_CopyDataInKt" />
         <item itemvalue="Kotlin.Chapter09.CopyDataOut._9_3_5_CopyDataOutKt" />
-        <item itemvalue="Kotlin.Chapter09.CopyDataAny._9_3_5_CopyDataAnyKt" />
       </list>
     </recent_temporary>
   </component>
@@ -279,58 +293,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://E:/文档/kotlin实战/src/ch08/8.1.6_4_RemovingDuplicationThroughLambdas3.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="584">
-          <caret line="25" column="50" lean-forward="true" selection-start-line="24" selection-start-column="4" selection-end-line="25" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/文档/kotlin实战/src/ch08/8.2.3_2_InliningCollectionOperations1.kt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://E:/文档/kotlin实战/src/ch08/8.2.3_1_InliningCollectionOperations.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="49" lean-forward="true" selection-start-column="21" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter08/8.2.3_InliningCollectionOperations.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="8" column="34" lean-forward="true" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/文档/kotlin实战/src/ch08/8.2.5_UsingInlinedLambdasForResourceManagement.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="59" lean-forward="true" selection-start-column="19" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter08/8.2.5_UsingInlinedLambdasForResourceManagement.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="7" column="45" selection-start-line="7" selection-start-column="45" selection-end-line="7" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/文档/kotlin实战/src/ch08/8.3.1_2_ReturnInLambdas1.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="36" selection-start-column="21" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chapter08/8.3.1_LookForAlice.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="13" column="65" selection-start-line="13" selection-start-column="65" selection-end-line="13" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://E:/文档/kotlin实战/src/ch08/8.3.1_1_LookForAlice.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -609,9 +571,58 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="799">
-            <caret line="162" column="10" selection-start-line="162" selection-start-column="10" selection-end-line="162" selection-end-column="10" />
+            <caret line="167" selection-start-line="167" selection-end-line="167" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter10/10.1.1_AppliedAnnotations.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/文档/kotlin实战/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/文档/kotlin实战/src/ch10/10.2.1_1_ReflectionAPI.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="34" selection-start-column="21" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/kotlin/reflect/KClass.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3210">
+          <caret line="39" column="20" lean-forward="true" selection-start-line="39" selection-start-column="20" selection-end-line="39" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/文档/kotlin实战/src/ch10/10.2.1_2_ReflectionAPI1.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="26" lean-forward="true" selection-start-column="26" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/文档/kotlin实战/src/ch10/10.2.1_3_ReflectionAPI2.kt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://E:/文档/kotlin实战/src/ch10/10.2.1_4_ReflectionAPI3.kt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter10/10.2.1_ReflectionAPI.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="620">
+          <caret line="37" column="11" selection-start-line="37" selection-start-column="11" selection-end-line="37" selection-end-column="11" />
         </state>
       </provider>
     </entry>
